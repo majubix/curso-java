@@ -1,2 +1,3 @@
 # curso-java
-Meu primeiro curso de java e as atividades feitas por mim.
+Meu primeiro contato com a linguagem Java!
+Aqui você verá os desafios realizados durante o curso.
