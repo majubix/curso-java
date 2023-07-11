@@ -1,0 +1,1 @@
+Pasta criada para meus projetos java. Oi maju do futuro, me conta, você virou engenheira de software ou analista de dados? É difícil virar noite estudando e abrir mão de tanta coisa, mas você consegue! Boa sorte! "Para chegar onde ninguém chega, é preciso fazer o que ninguém faz!"
